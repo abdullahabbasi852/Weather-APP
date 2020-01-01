@@ -14,9 +14,6 @@ This is a Weather Android application that give you a weather information at the
 # Tools
   * Android Studio
   * OpenWeatherMap API
-  
-# Download
-  [WeatherApp.apk](https://drive.google.com/file/d/1U9NoFxwidDcqfTJGCZG8y0b3vL8ZUNvn/view?usp=sharing)
 
 # Built With
 * [OpenWeatherMap](https://openweathermap.org/) - Weather API used
