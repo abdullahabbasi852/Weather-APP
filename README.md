@@ -10,7 +10,7 @@ This is a Weather Android application that give you a weather information at the
 * Android 7.1 (API 25) or above
 * Build with Android Studio 3.5
 
-# Getting Started
+# Getting Started 🚀
 To get this project up and running on your local machine, all you need to do is clone or download this project, Open this project in android studio and run it on any android device or emulator.
 
 # Tools
